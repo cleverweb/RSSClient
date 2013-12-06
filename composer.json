@@ -27,5 +27,10 @@
             "Desarrolla2\\RSSClient\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+	"branch-alias": {
+	  "dev-master": "v2.2.x-dev"
+	}
+    }
 }
